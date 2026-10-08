@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+ecg_demo_bundle/
+*.zip
+.DS_Store
